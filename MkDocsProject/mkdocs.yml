@@ -1,0 +1,5 @@
+site_name: LevDoc
+pages:
+    - Home: index.md
+    - About: 10614215-4c2f-453d-b8f0-2d01d5e33cb3.md
+theme: readthedocs
