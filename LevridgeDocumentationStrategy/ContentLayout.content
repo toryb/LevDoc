@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Topics>
+  <Topic id="6b05ee04-3553-49a8-a6e3-56339de847aa" visible="True" isDefault="true" title="Welcome to the Levridge Documentation Strategy" tocTitle="Table Of Contents">
+    <HelpKeywords>
+      <HelpKeyword index="K" term="Welcome" />
+    </HelpKeywords>
+  </Topic>
+  <Topic id="30b0141d-0b25-46aa-a35e-c93d58fb928b" visible="True" isSelected="true" title="Getting Started">
+    <HelpKeywords>
+      <HelpKeyword index="K" term="Getting Started" />
+    </HelpKeywords>
+  </Topic>
+  <Topic id="10614215-4c2f-453d-b8f0-2d01d5e33cb3" visible="True" isExpanded="true" title="Version History">
+    <HelpKeywords>
+      <HelpKeyword index="K" term="version, history" />
+    </HelpKeywords>
+    <Topic id="73b71fbb-bb56-40ea-9081-d991d9574fd5" visible="True" title="Version 1.0.0.0">
+      <HelpKeywords>
+        <HelpKeyword index="K" term="version, 1.0.0.0" />
+      </HelpKeywords>
+    </Topic>
+  </Topic>
+</Topics>
